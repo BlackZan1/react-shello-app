@@ -9,12 +9,15 @@ export const TaskComponent = styled.div`
     margin: 10px 0;
     display: flex;
     justify-content: space-between;
-    align-items: flex-start;
-    touch-action: none;
+    align-items: center;
+    touch-action: auto;
     animation: fadeIn .5s ease;
 
     & > section {
         width: 75%;
+        text-align: left;
+        word-wrap: break-word;
+        user-select: text;
     }
 
     & > div {

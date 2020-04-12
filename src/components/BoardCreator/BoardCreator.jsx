@@ -12,7 +12,7 @@ import randomId from '../../utils/randomId';
 export let colors = [
     'crimson',
     'chocolate',
-    'lightpink',
+    '#ed9eaa',
     'coral',
     'seagreen',
     'dodgerblue',

@@ -23,8 +23,6 @@ export default ({
     }
 
     const onKeyDownHandler = (ev) => {
-        console.log(ev.keyCode)
-
         if(ev.keyCode === 13 && !!newTask.length) {
             let newTaskItem = {
                 id: randomId(),
