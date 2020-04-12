@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "76b597c1c7c513d384572506b0fb3014",
+    "revision": "5ab6d587d8098f34006cd89c2f7fabe6",
     "url": "/react-shello-app/index.html"
   },
   {
-    "revision": "97640d0ca6c8d506db5f",
+    "revision": "147d3da76516b4fe3ffe",
     "url": "/react-shello-app/static/css/main.6e6a43a3.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-shello-app/static/js/2.96edb81e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "97640d0ca6c8d506db5f",
-    "url": "/react-shello-app/static/js/main.88f57a56.chunk.js"
+    "revision": "147d3da76516b4fe3ffe",
+    "url": "/react-shello-app/static/js/main.412a5b60.chunk.js"
   },
   {
     "revision": "89da4cee121d6cfdd806",
