@@ -32,7 +32,7 @@ const Header = () => {
 
     return (
         <HeaderComponent style={{background: headerData.color}}>
-            <NavLink to={'/'} style={{textDecoration: 'none'}}>
+            <NavLink to={'/react-shello-app'} style={{textDecoration: 'none'}}>
                 <HeaderLogo>
                     Shello
                 </HeaderLogo>

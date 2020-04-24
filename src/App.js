@@ -32,10 +32,10 @@ const App = () => {
 
       <section className='Section'>
         <Switch>
-          <Route path={'/board/:id?'} exact component={ActiveBoard} />
-          <Route path={'/'} exact component={Wrapper} />
+          <Route path={'/react-shello-app/board/:id?'} exact component={ActiveBoard} />
+          <Route path={'/react-shello-app'} exact component={Wrapper} />
 
-          <Redirect to={'/'} />
+          <Redirect to={'/react-shello-app'} />
         </Switch>
       </section>
     </div>
