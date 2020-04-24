@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/react-shello-app/precache-manifest.a4f7f1fe1dac34c2d662e2127b16f2cb.js"
+  "/react-shello-app/precache-manifest.836cc9dd78e72693521c6c42469bbbda.js"
 );
 
 self.addEventListener('message', (event) => {
